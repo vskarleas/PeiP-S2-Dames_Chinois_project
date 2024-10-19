@@ -526,4 +526,4 @@ let est_partie (conf:configuration) (liste_coup:coup list): couleur =
 ```
 
 ---
-**PeiP-S2-Dames_Chinois_project** © 2022 by **Vasileios Filippos Skarelas**, **Noan Simon**, and **Gwendal Trehin** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
+**PeiP-S2-Dames_Chinois_project** © 2022 by **Vasileios Filippos Skarelas**, **Noan Simon**, and **Gwendal Trehin** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
