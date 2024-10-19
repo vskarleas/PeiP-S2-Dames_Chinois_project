@@ -1,4 +1,8 @@
-# Compte Rendu
+# INF201 Dames Chinois Project
+
+## Description
+
+This project is about solving the Halma game (Dames Chninois in French) using the Ocaml programming language. The main goal was to apply algorithmic and functional programming technics in order to solve the puzzle. This repo comes with a project description document written in french that includes the qiestions that we are replying below. You can find the document at dames_chinoises_etd 2.pdf on the repo.
 
 ## **Question 1**
 
@@ -520,3 +524,6 @@ let est_partie (conf:configuration) (liste_coup:coup list): couleur =
   couleur
 ;;
 ```
+
+---
+**PeiP-S2-INF201-Dames_Chinois_Project** © 2022 by **Vasileios Filippos Skarelas**, **Noan Simon**, and **Gwendal Trehin** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
